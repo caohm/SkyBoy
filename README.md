@@ -1,2 +1,2 @@
-# SkyBoy
-flying robot
+# FlyingRobot
+Flying Robot
